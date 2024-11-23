@@ -4,6 +4,8 @@ I did have to change the speed of the chrome dino using "console" in chrome inor
 You have to check the resistance value and change the if loop, and delay respectively.
 (See the working in the video attached)
 
+**Find the code in the same repository with name "code.ino"**
+
 Circuit diagram-
 - One end of LDR was connected to analog pin- A0 and ground via resistor 1000 ohms.
 - other end was connected to 5v
